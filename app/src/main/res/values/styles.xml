@@ -11,7 +11,7 @@
     </style>
 
     <style name="TourGuideTabsStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
-        <item name="elevation">0dp</item>
+        <item name="elevation">3dp</item>
     </style>
 
 
@@ -24,6 +24,7 @@
     
     <style name="TabTextApp" parent="TextAppearance.Design.Tab">
         <item name="android:textColor">#A8A19E</item>
+        <item name="android:textSize">18sp</item>
     </style>
 
 </resources>

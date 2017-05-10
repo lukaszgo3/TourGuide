@@ -26,9 +26,8 @@ public class FragmentAdapter extends FragmentPagerAdapter {
                 return new Fragment3();
             case 3:
                 return new Fragment4();
-            default:
-                return null;
         }
+        return null;
     }
 
     @Override
@@ -47,8 +46,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
                 return mContext.getString(R.string.fragment3);
             case 3:
                 return mContext.getString(R.string.fragment4);
-            default:
-                return null;
         }
+        return null;
     }
 }
