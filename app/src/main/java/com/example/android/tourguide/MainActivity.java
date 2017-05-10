@@ -21,7 +21,5 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabsId);
         tabLayout.setupWithViewPager(viewPager);
         tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);
-
-
     }
 }

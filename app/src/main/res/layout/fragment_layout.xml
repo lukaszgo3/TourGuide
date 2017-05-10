@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@android:drawable/dialog_holo_light_frame">
+    android:background="@android:drawable/dialog_holo_light_frame"
+    android:orientation="vertical">
 
     <ImageView
         android:id="@+id/imageItemId"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/gollum"
-        android:adjustViewBounds="true"
+        android:layout_height="208dp"
         android:layout_marginBottom="15dp"
-        android:scaleType="fitStart"/>
+        android:scaleType="fitXY" />
 
     <TextView
         android:id="@+id/tittleItemId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tittle"
-        android:textSize="25sp"/>
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="25sp" />
 
     <TextView
         android:id="@+id/infoItemId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="custom text lalalala"
-        android:textSize="15sp"/>
-
-
+        android:padding="10dp"
+        android:textSize="15sp" />
 </LinearLayout>

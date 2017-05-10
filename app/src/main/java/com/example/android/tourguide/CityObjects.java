@@ -8,7 +8,7 @@ public class CityObjects {
 
     private int mImage;
 
-    public CityObjects(String tittle, String info, int image){
+    public CityObjects(String tittle, String info, int image) {
 
         mTittle = tittle;
         mInfo = info;

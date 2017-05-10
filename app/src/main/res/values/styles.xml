@@ -16,14 +16,14 @@
 
 
     <style name="fragmentTabs" parent="Widget.Design.TabLayout">
-        <item name="tabIndicatorColor">@color/colorPrimaryDark</item>
+        <item name="tabIndicatorColor">@color/colorAccent</item>
         <item name="tabSelectedTextColor">@color/colorAccent</item>
         <item name="tabTextAppearance">@style/TabTextApp</item>
         <item name="tabBackground">@color/colorPrimary</item>
     </style>
     
     <style name="TabTextApp" parent="TextAppearance.Design.Tab">
-        <item name="android:textColor">#A8A19E</item>
+        <item name="android:textColor">#e4d1ef</item>
         <item name="android:textSize">18sp</item>
     </style>
 

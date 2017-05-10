@@ -1,10 +1,50 @@
 <resources>
-    <string name="app_name">TourGuide</string>
+    <string name="app_name">Opole TourGuide</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="fragment1">Fragment 1</string>
-    <string name="fragment2">Fragment 2</string>
-    <string name="fragment3">Fragment 3</string>
-    <string name="fragment4">Fragment 4</string>
+    <!-- Tabs -->
+    <string name="fragment1">Attractions</string>
+    <string name="fragment2">Shops</string>
+    <string name="fragment3">Restaurants</string>
+    <string name="fragment4">Hotels</string>
+
+    <!-- Shops -->
+    <string name="shopTittle1">Solaris Center</string>
+    <string name="shopInfo1">A fairly large shopping gallery in the city centre, upscale by local standards, with many of the usual suspects in chain retail (ZARA, promod etc.) A big part is occupied by the Helios multi-screen cinema. Also includes a fairly large electronics store and a sizeable food court filled with fast food options.</string>
+    <string name="shopTittle2">Karolinka</string>
+    <string name="shopInfo2"> A strip mall on the outskirts anchored by the Auchan hypermarket, featuring many of the stores that would not fit within city centre galleries, including furniture stores and a big Decathlon sporting gear store.</string>
+    <string name="shopTittle3">Turawa Park</string>
+    <string name="shopInfo3"> Another strip mall on the outskirts - actually next to the ringroad and easier to reach from some of the neighbouring villages than the city itself. Anchor tennants are the Carrefour supermarket and Praktiker home improvement store.</string>
+
+    <!-- Restaurants -->
+    <string name="restaurantsTittle1">Manekin</string>
+    <string name="restaurantsInfo1">A branch of the Polandwide chain of pancake-and-crepe restaurants, known for their hearty servings and low prices, is located on of the busiest and also nicest street corners of Opole\'s old town.</string>
+    <string name="restaurantsTittle2">Sopelek</string>
+    <string name="restaurantsInfo2">Opole\'s leading ice cream parlor chain made a name for itself with an extensive menu of fancy ice-cream-based desserts, all of which are very generous in size. Regular scoop-and-cone ice cream for takeaway is also on offer.</string>
+    <string name="restaurantsTittle3">Rzymskie Wakacje</string>
+    <string name="restaurantsInfo3">It is perhaps the best Italian Restaurant in Opole. Fresh and very Italian food, nice service and very friendly atmosphere! Just go there if you want something really nice!</string>
+    <string name="restaurantsTittle4">Kaiseki</string>
+    <string name="restaurantsInfo4">Nice quiet place with good selection of Japanese food. Good sushi, good teas and a free tutorial on using chopsticks.</string>
+
+    <!-- Hotels -->
+    <string name="hotelsTittle1">Railway Hostel Opole</string>
+    <string name="hotelsInfo1">The hostel is in the train station building and offers a selection of ensuite rooms and beds in shared dorms. Facilities include paid parking and a cafe Beds from PLN 30, Rooms from PLN 88.</string>
+    <string name="hotelsTittle2">DeSilva Premium Opole</string>
+    <string name="hotelsInfo2">The first large four-star hotel in Opole offers a range of modern comforts, including a fitness centre and a cigar bar.</string>
+    <string name="hotelsTittle3">Hotel Festival</string>
+    <string name="hotelsInfo3">The out-of-way location makes it more suitable for those arriving by car, but on the flip side it features a small swimming pool and fitness room. From PLN 169, breakfast included.</string>
+    <string name="hotelsTittle4">Mercure Opole</string>
+    <string name="hotelsInfo4">Right in front of the train station, which is also where most long-distance buses stop, the Mercure has seen its fortunes slip as more modern hotels opened around town. It is still a commendable option with all the necessary features but air conditioning or any kind of fitness facilities are missing. Low prices make up for that - check on the official website and book in advance to take advantage of frequent special offers. Rates starting at PLN 105, breakfast is PLN 35.</string>
+
+    <!-- Attractions -->
+    <string name="attractionsTittle1">Piast Tower</string>
+    <string name="attractionsInfo1"> The sole remainder of a medieval castle built by the local Piast dukes of Opole as a residence and defensive facility. The tower was a late addition, stemming from the 14th century, while the construction of the castle started in 1228. As the former Duchy of Opole started changing hands between surrounding kingdoms and empires, the castle was subjects to periods of ruin and reconstruction. Finally, in 1928, the German authorities deemed the castle to be in poor condition and ordered its demolition to make room for a new government office complex.</string>
+    <string name="attractionsTittle2">Church on the Hill</string>
+    <string name="attractionsInfo2"> The church\'s full name is a mouthful to pronounce, so the locals refer to it by its uphill location edit
+                                     4 Town Hall. The neo-renaissance Town Hall is a result of numerous reconstructions and expansions. Especially its tower had a tumultous history, being rebuilt many times, the last time in 1936, with the aim to resemble Palazzo Vecchio of Venice. Unlike many other town halls of major cities in Poland, the one in Opole is still used for its original function and most of the official business pertaining to the city authorities is conducted inside.</string>
+    <string name="attractionsTittle3">Most Groszowy</string>
+    <string name="attractionsInfo3">The pedestrian bridge with wrought iron railings was constructed at the turn of the 20th century. Crossing the bridge originally cost 1 grosz (smallest currency unit), hence the name. Otherwise, the bridge is called Zielony Mostek (the green bridge), referring to its colour, or Most Zakochanych (lovers\' bridge) for the custom of loving couples locking a padlock on the railings to signify their commitment.</string>
+    <string name="attractionsTittle4">Castle Pond with fountains</string>
+    <string name="attractionsInfo4">The name is a bit misleading as the pond was actually created from the remains of the moat after the castle was demolished. It serves a purely recreational purpose, with an active musical fountain in the summer and a long tradition of ice-skating in the winter, with the pond hosting the German ice-skating championships in 1934. The wooden house with the restaurant was originally erected for the local ice-skating society. The musical fountain performs a lights-and-music show on summer evenings.</string>
+    <string name="attractionsTittle5">Venice of Opole</string>
+    <string name="attractionsInfo5">A wall of historic buildings directly over the Młynówka river looks quite spectacular and nothing like Venice, actually, but more like canals of Hamburg for example. Some of the best photos of Opole are taken there at night. </string>
 </resources>

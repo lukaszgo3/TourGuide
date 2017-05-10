@@ -19,13 +19,13 @@ public class FragmentAdapter extends FragmentPagerAdapter {
 
         switch (position) {
             case 0:
-                return new Fragment1();
+                return new AttractionsFragment();
             case 1:
-                return new Fragment2();
+                return new ShopsFragment();
             case 2:
-                return new Fragment3();
+                return new RestaurantsFragment();
             case 3:
-                return new Fragment4();
+                return new HotelsFragment();
         }
         return null;
     }

@@ -12,15 +12,15 @@ import java.util.ArrayList;
 
 public class CityObjectsAdapter extends ArrayAdapter<CityObjects> {
 
-    public CityObjectsAdapter(Context context, ArrayList<CityObjects> objects){
+    public CityObjectsAdapter(Context context, ArrayList<CityObjects> objects) {
         super(context, 0, objects);
     }
 
     @Override
-    public View getView(int position, View convertView,  ViewGroup parent) {
+    public View getView(int position, View convertView, ViewGroup parent) {
 
         View objectView = convertView;
-        if(objectView == null){
+        if (objectView == null) {
             objectView = LayoutInflater.from(getContext()).inflate(R.layout.fragment_layout, parent, false);
         }
 
